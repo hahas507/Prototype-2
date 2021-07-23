@@ -35,6 +35,6 @@ public class SpawnManagerX : MonoBehaviour
         Invoke("SpawnRandomBall", randomInterval);
 
         //debug
-        Debug.Log(randomInterval);
+        //Debug.Log(randomInterval);
     }
 }
