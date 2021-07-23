@@ -12,6 +12,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private float xRange = 10f;
 
+    [SerializeField]
+    private GameObject projectilePrefab;
+
     private void Start()
     {
     }
